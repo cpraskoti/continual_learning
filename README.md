@@ -1,4 +1,4 @@
-CL
+Continual Learning
 ==============================
 
 A short description of the project.
